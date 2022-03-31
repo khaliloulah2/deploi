@@ -1,5 +1,5 @@
 <?php
-    $serveur = 'mysql';
+    $serveur = 'localhost';
     $nomBd = 'clinique';
     $user = 'root';
     $mdp = '';
