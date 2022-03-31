@@ -1,5 +1,5 @@
 <?php
-    $serveur = 'localhost';
+    $serveur = 'heroku';
     $nomBd = 'clinique';
     $user = 'root';
     $mdp = '';
