@@ -1,5 +1,5 @@
 <?php
-    $serveur = 'heroku';
+    $serveur = 'gunicorn';
     $nomBd = 'clinique';
     $user = 'root';
     $mdp = '';
