@@ -1,5 +1,5 @@
 <?php
-    $serveur = 'gunicorn';
+    $serveur = 'mysql';
     $nomBd = 'clinique';
     $user = 'root';
     $mdp = '';
